@@ -1,4 +1,4 @@
-## Hi, I'm Esther Rocío 👋
+## Hi, I'm Esther Rocío 🌟
 
 <!--
 **EstherRocio012/EstherRocio012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
