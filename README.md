@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🧠 Software engineering ~ University of Seville<br/>
+🧠 Software engineer ~ University of Seville<br/>
 🚀 Always learning new things!<br/>
 
 ### 🛠️ Technologies & Tools
